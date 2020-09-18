@@ -1,5 +1,6 @@
-### Hi there, I am Devjyot Singh Sidhu 👋:
+# Hi there, I am Devjyot Singh Sidhu 👋:
 
+![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+Profile+view+number)<br>
 - 🔭 I’m currently working on Machine Learning, Deep Learning and Natural Language Processing
 - 🌱 I’m currently learning TensorFlow and Speech Recognition Models
 - 👯 I’m looking to collaborate on projects related to ML, DL or NLP
@@ -7,5 +8,5 @@
 - 💬 Ask me about food. 
 - ⚡ Fun fact: A horse actually has about 15-20 horse power.
 
-![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+Profile+view+number)<br>
-[![Devjyot Singh's github stats](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/devoghub)
+[![Devjyot Singh's github stats](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/devoghub)<br>
+[![Top Languages used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=devoghub&theme=synthwave&layout=compact)](https://github.com/devoghub/devoghub)
