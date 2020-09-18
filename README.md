@@ -8,5 +8,5 @@
 - 💬 Ask me about food. 
 - ⚡ Fun fact: A horse actually has about 15-20 horse power.
 
-[![Devjyot Singh's github stats](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/devoghub)<br>
-[![Top Languages used by me](https://github-readme-stats.vercel.app/api/top-langs/?username=devoghub&theme=synthwave&layout=compact)](https://github.com/devoghub/devoghub)
+[![](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/devoghub)<br>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devoghub&theme=synthwave&layout=compact)](https://github.com/devoghub/devoghub)
