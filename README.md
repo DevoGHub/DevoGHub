@@ -8,4 +8,4 @@
 - ⚡ Fun fact: A horse actually has about 15-20 horse power.
 
 ![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+Profile+view+number)<br>
-[![Devjyot Singh's github stats](https://github-readme-stats.vercel.app/api?username=devoghub)](https://github.com/devoghub/devoghub)
+[![Devjyot Singh's github stats](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=dracula)](https://github.com/devoghub/devoghub)
