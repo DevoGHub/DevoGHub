@@ -7,4 +7,5 @@
 - 💬 Ask me about food. 
 - ⚡ Fun fact: A horse actually has about 15-20 horse power.
 
-
+Woah, thanks for visiting my profile:
+![](https://komarev.com/ghpvc/?username=DevoGHub)
