@@ -6,6 +6,3 @@
 - 🤔 I’m looking for help with a text to speech converter using pyttsx3
 - 💬 Ask me about food. 
 - ⚡ Fun fact: A horse actually has about 15-20 horse power.
-<br>
-![](https://komarev.com/ghpvc/?username=DevoGHub)
-<br>
