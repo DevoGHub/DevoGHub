@@ -1,6 +1,6 @@
 # Hi there, I am Devjyot Singh Sidhu 👋:
 
-![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+You+increased+my+view+count+to)<br>
+![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+You+increased+the+profile+view+count+to)<br>
 - 🔭 I’m currently working on Machine Learning, Deep Learning and Natural Language Processing
 - 🌱 I’m currently learning TensorFlow and Speech Recognition Models
 - 👯 I’m looking to collaborate on projects related to ML, DL or NLP
