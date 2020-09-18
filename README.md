@@ -7,9 +7,10 @@
 - 🤔 I’m looking for help with a text to speech converter using pyttsx3
 - 💬 Ask me about food. 
 - ⚡ Fun fact: A horse actually has about 15-20 horse power.
-- 🍕 I love to eating.
+- 🍕 I love eating.
 - 💻 I love coding.
 - 🟥 I love cubing.
+- 💤 I love sleeping.
 - 🌏 Find more about me on my <a href='https://devoghub.github.io/Resume'>resume page</a>.
 <hr>
 
