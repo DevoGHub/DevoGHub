@@ -11,7 +11,7 @@
 - 💻 I love coding.
 - 🟥 I love cubing.
 - 💤 I love sleeping.
-- 🌏 Find more about me on my <a href='https://devoghub.github.io/Resume'>resume page</a>.
+- 🌏 Find more about me on my <a href='http://devjyotsinghsidhu.devus.org'>resume page</a>.
 <hr>
 
 [![](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/devoghub)<br> 
