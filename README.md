@@ -1,11 +1,11 @@
 # Hi there, I am Devjyot Singh Sidhu 👋:
 
 ![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+You+increased+the+profile+view+count+to)<hr>
-- 🔭 I’m currently working on Machine Learning, Deep Learning and Natural Language Processing
+- 🔭 I’m currently working on Machine Learning, Deep Learning and Natural Language Processing and Web Development Projects
 - 🌱 I’m currently learning TensorFlow and Speech Recognition Models
-- 👯 I’m looking to collaborate on projects related to ML, DL or NLP
-- 🤔 I’m looking for help with TensorFlow
-- 💬 Ask me about food. 
+- 👯 I’m looking to collaborate on projects related to ML, DL, NLP or WebDev.
+- 🤔 I’m looking for help with TensorFlow and Node.j
+- 💬 Ask me about food.
 - ⚡ Fun fact: A horse actually has about 15-20 horse power.
 - 🍕 I love eating.
 - 💻 I love coding.
