@@ -14,5 +14,5 @@
 - 🌏 Find more about me on my <a href='http://devjyotsinghsidhu.devus.org'>resume page</a>.
 <hr>
 
-[![](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/devoghub)<br> 
+[![](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/)<br> 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=devoghub&theme=synthwave&layout=compact)](https://github.com/devoghub/)
