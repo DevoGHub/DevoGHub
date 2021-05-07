@@ -1,6 +1,6 @@
 # Hi there, I am Devjyot Singh Sidhu 👋:
 
-![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+You+increased+the+profile+view+count+to)<hr>
+[![](https://komarev.com/ghpvc/?username=DevoGHub&color=ff69b4&style=plastic&label=Woah+thanks+for+the+visit.+You+increased+the+profile+view+count+to)](https://github.com/devoghub/)<hr>
 - 🔭 I’m currently working on Machine Learning, Deep Learning and Natural Language Processing and Web Development Projects
 - 🌱 I’m currently learning TensorFlow and Speech Recognition Models
 - 👯 I’m looking to collaborate on projects related to ML, DL, NLP or WebDev.
@@ -15,4 +15,4 @@
 <hr>
 
 [![](https://github-readme-stats.vercel.app/api?username=devoghub&show_icons=true&theme=synthwave)](https://github.com/devoghub/devoghub)<br> 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devoghub&theme=synthwave&layout=compact)](https://github.com/devoghub/devoghub)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=devoghub&theme=synthwave&layout=compact)](https://github.com/devoghub/)
